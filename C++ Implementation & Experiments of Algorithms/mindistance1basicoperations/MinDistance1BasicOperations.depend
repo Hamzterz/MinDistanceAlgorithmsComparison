@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1495165785 source:c:\users\aaron\documents\qut\it\cab301\workshop\mindistance1basicoperations\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<limits>
+	<iostream>
+	<fstream>
+

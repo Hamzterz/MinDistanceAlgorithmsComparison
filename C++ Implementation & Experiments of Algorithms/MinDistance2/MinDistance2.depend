@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1494079491 source:c:\users\aaron\documents\qut\it\cab301\workshop\mindistance2\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<limits>
+
